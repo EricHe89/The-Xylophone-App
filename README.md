@@ -1,1 +1,2 @@
 # The-Xylophone-App
+This is an iOS app developed with Swift language using Xcode & Xcode Simulator. It plays several designated music notes by xylophone. If you wanna try out this app, you can simply download/clone it to your computer, and run the .xcodeproj program in Xcode. You can run this app either with the virtual iphone device in Xcode simulator or with your physical iphone device. However, you might need to change the size of image/icons according to the screensize of your chosen device, to optimize the user experience.
